@@ -80,8 +80,6 @@ class SystemMessageManager:
         try:
             with open(filename, 'r') as json_file:
                 self.data = json.load(json_file)
-                # return backup in state where it should be at start
-                self.backup = true
             return True
         except Exception as e:
             return f"Error loading file: {e}"
