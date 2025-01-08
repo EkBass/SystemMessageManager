@@ -1,4 +1,4 @@
-Description is written by ChatGPT because it has much better English skills than i have :)
+Description is translated by ChatGPT because it has much better English skills than i have :)
 
 ### **SystemMessageManager: Overview**
 
