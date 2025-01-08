@@ -2,7 +2,7 @@ Description is written by ChatGPT because it has much better English skills than
 
 ### **SystemMessageManager: Overview**
 
-The `SystemMessageManager` is a Python class designed to manage system messages in a structured and flexible way. These messages, which are organized by "roles," can be retrieved, modified, saved, and loaded as needed. The class ensures that a default system message is always preserved and provides features like backups for data integrity.
+The `SystemMessageManager` is a Python/nodejs class designed to manage system messages in a structured and flexible way. These messages, which are organized by "roles," can be retrieved, modified, saved, and loaded as needed. The class ensures that a default system message is always preserved and provides features like backups for data integrity.
 
 ---
 
